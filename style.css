@@ -79,6 +79,7 @@ color: white;
 
 .estudante-todo{
     display: flex;
+    justify-content: center;
 }
 
 
