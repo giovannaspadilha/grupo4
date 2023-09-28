@@ -1,4 +1,5 @@
-fuction tocaSomPom () {
-    document.querySelector('#som_tecla_pom').play();
+function teclateclaPom() {
+    document.querySelector('tecla_tecla_Pom).play();
 }
-}
+
+document.querySelector('.tecla_tecla_Pom').onclick = teclateclaPom;
