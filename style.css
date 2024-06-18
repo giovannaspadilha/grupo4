@@ -36,7 +36,7 @@ color: white;
 
 #textos {
     background-image: linear-gradient( #f3ad2a, #f1cb4e );
-    color: rgba(3, 3, 3, 0);
+    color: rgb(0, 0, 0);
     display: flex;
     justify-content: center;
     align-items: center;
