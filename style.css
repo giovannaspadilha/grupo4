@@ -35,8 +35,8 @@ color: white;
 }
 
 #textos {
-    background-image: linear-gradient(#eba422, #ebca14cc);
-    color: white;
+    background-image: linear-gradient(#eba422, #eba422);
+    color: rgb(3, 3, 3);
     display: flex;
     justify-content: center;
     align-items: center;
